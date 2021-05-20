@@ -42,7 +42,7 @@
 |2|Hafis|https://hafiscp.github.io/TASK-02-CSS/|
 |3|Prathul|-|
 |4|Swathy|-|
-|5|Yazid|-|
+|5|Yazid|https://yazidanp.github.io/csstask2/|
 
 |Webzone|Name|Website link|  
 |-------|----|------------|
